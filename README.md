@@ -4,11 +4,18 @@ The Cloud Resume Challenge, created by Forrest Brazeal, is a practical project t
 
 Services Used:
 
-S3
-Route53
-AWS CloudFront
-Certificate Manager
-AWS Lambda
-Dynamo DB
-GitHub Actions
-Terraform
+- S3
+
+- Route53
+
+- AWS CloudFront
+
+- Certificate Manager
+
+- AWS Lambda
+
+- Dynamo DB
+
+- GitHub Actions
+
+- Terraform
